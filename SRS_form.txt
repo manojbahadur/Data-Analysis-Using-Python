@@ -1,0 +1,7 @@
+Title: Design an SRS form using python
+Intorduction: SRS is complete specification and description of requirements of software that needs to be fulfilled for successful development of software system.
+Functional Requirements: collect input from the clients and store in a file
+Interface Requirements: Python-3.8v, numpy and file operations
+Design constraints: Only used for SRS format
+Preliminary Schedule and Budget: 1st project
+Appendices: google
